@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <wiringPiI2C.h>
-#include "kt0803k.h"
+#include "rpi-kt0803k.h"
 
 int ktWiringPiFd;
 
